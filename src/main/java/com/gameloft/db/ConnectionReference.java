@@ -1,4 +1,4 @@
-package test.db;
+package com.gameloft.db;
 
 public class ConnectionReference {
     private String host;

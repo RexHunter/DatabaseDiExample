@@ -1,4 +1,4 @@
-package test.db;
+package com.gameloft.db;
 
 import dagger.Module;
 

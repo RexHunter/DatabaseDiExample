@@ -1,8 +1,8 @@
-package test;
+package com.gameloft;
 
 import dagger.ObjectGraph;
 import org.apache.commons.dbutils.QueryRunner;
-import test.db.ConnectionProvider;
+import com.gameloft.db.ConnectionProvider;
 
 import javax.inject.Inject;
 

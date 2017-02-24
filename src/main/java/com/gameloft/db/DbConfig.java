@@ -1,4 +1,4 @@
-package test.db;
+package com.gameloft.db;
 
 
 import org.apache.logging.log4j.LogManager;

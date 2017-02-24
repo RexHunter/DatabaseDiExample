@@ -1,4 +1,4 @@
-package test.db;
+package com.gameloft.db;
 
 import com.mysql.cj.jdbc.MysqlDataSource;
 

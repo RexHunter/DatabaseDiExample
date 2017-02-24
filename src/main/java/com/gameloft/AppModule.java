@@ -1,9 +1,9 @@
-package test;
+package com.gameloft;
 
+import com.gameloft.db.DbModule;
 import dagger.Module;
 import dagger.Provides;
-import test.db.DbConfig;
-import test.db.DbModule;
+import com.gameloft.db.DbConfig;
 
 @Module(
         injects = Application.class,
