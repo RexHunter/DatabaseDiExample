@@ -1,9 +1,9 @@
-package com.gameloft;
+package com.rexxie;
 
-import com.gameloft.db.DbModule;
+import com.rexxie.db.DbModule;
 import dagger.Module;
 import dagger.Provides;
-import com.gameloft.db.DbConfig;
+import com.rexxie.db.DbConfig;
 
 @Module(
         injects = Application.class,

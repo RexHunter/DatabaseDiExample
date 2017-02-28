@@ -1,8 +1,8 @@
-package com.gameloft;
+package com.rexxie;
 
 import dagger.ObjectGraph;
 import org.apache.commons.dbutils.QueryRunner;
-import com.gameloft.db.ConnectionProvider;
+import com.rexxie.db.ConnectionProvider;
 
 import javax.inject.Inject;
 

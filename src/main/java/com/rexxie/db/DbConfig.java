@@ -1,4 +1,4 @@
-package com.gameloft.db;
+package com.rexxie.db;
 
 
 import org.apache.logging.log4j.LogManager;

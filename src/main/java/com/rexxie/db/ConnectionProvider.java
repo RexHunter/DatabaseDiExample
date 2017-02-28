@@ -1,4 +1,4 @@
-package com.gameloft.db;
+package com.rexxie.db;
 
 import com.mysql.cj.jdbc.MysqlDataSource;
 
